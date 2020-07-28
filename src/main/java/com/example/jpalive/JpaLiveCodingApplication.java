@@ -1,4 +1,4 @@
-package com.example.jpa_live_coding;
+package com.example.jpalive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
